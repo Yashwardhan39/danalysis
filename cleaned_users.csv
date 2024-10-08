@@ -1,0 +1,4 @@
+userid,name,age,gender,contactinformation,registrationdate,registrationyear
+1,Alice Johnson,30,Female,alice.johnson@example.com,2023-01-15,2023
+2,Bob Smith,45,Male,bob.smith@example.com,2023-03-22,2023
+3,Charlie Davis,25,Non-binary,charlie.davis@example.com,2023-05-10,2023

@@ -1,0 +1,5 @@
+usermedicationid,userid,medicationid,startdate,enddate,dosage,frequency
+1,1,1,2024-09-21,2024-09-24,500mg,Every 6 hours
+2,2,2,2024-09-19,2024-09-24,200mg,Every 8 hours
+3,3,3,2024-09-26,2024-10-03,500mg,Every 12 hours
+4,2,4,2024-09-19,2024-10-19,10mg,Once daily

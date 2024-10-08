@@ -1,0 +1,4 @@
+dietchartid,userid,creationdate,dietaryrecommendations
+1,1,2024-09-21,"{'Lunch': 'Grilled chicken salad', 'Dinner': 'Steamed vegetables and brown rice', 'Snacks': 'Nuts and yogurt', 'Breakfast': 'Oatmeal with fruits'}"
+2,2,2024-09-19,"{'Lunch': 'Quinoa and black bean bowl', 'Dinner': 'Baked salmon with asparagus', 'Snacks': 'Fruit smoothies', 'Breakfast': 'Whole grain toast with avocado'}"
+3,3,2024-09-26,"{'Lunch': 'Turkey sandwich on whole wheat', 'Dinner': 'Vegetable stir-fry with tofu', 'Snacks': 'Carrot sticks and hummus', 'Breakfast': 'Scrambled eggs and spinach'}"

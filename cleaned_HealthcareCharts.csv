@@ -1,0 +1,5 @@
+healthcarechartid,userid,date,healthmetrics
+1,1,2024-09-21,"{'HeartRate': '75 bpm', 'Temperature': '38.5°C', 'BloodPressure': '120/80', 'OxygenSaturation': '98%'}"
+2,1,2024-09-22,"{'HeartRate': '72 bpm', 'Temperature': '37.8°C', 'BloodPressure': '118/79', 'OxygenSaturation': '99%'}"
+3,2,2024-09-19,"{'HeartRate': '80 bpm', 'Temperature': '39.0°C', 'BloodPressure': '130/85', 'OxygenSaturation': '95%'}"
+4,3,2024-09-26,"{'HeartRate': '70 bpm', 'Temperature': '36.7°C', 'BloodPressure': '115/75', 'OxygenSaturation': '97%'}"
